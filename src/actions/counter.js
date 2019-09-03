@@ -1,4 +1,4 @@
-import '@tarojs/async-await'
+
 
 import {
   ADD,
